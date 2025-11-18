@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Priya Bisirotti</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative solutions and exploring modern technologies.</h3>
 
-💻 Tech Skills:
-Programming Languages: C++, Python Java
-Web Development: HTML, CSS ,JavaScript ,Bootstrap
-Database: MySQL
-Python Libraries: Pandas , NumPy , Matplotlib ,Scikit-learn
-Tools & IDEs: VS Code, Eclipse ,PyCharm, Codeblocks 
+💻 Tech Skills: 
+Programming Languages: C++, Python Java 
+Web Development: HTML, CSS ,JavaScript ,Bootstrap 
+Database: MySQL 
+Python Libraries: Pandas , NumPy , Matplotlib ,Scikit-learn 
+Tools & IDEs: VS Code, Eclipse ,PyCharm, Codeblocks
 
 <p align="left">
 </p>
